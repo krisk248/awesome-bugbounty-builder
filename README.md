@@ -1,27 +1,5 @@
-# Awesome Bug Bounty Builder ¯\\_(ツ)_/¯
-
-
-<div align="center">
-    
-<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/> <br/>
-
-<a href="https://github.com/0xJin/awesome-bugbounty-builder/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/0xJin/awesome-bugbounty-builder"></a>
-<a href="https://github.com/0xJin/awesome-bugbounty-builder/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/0xJin/awesome-bugbounty-builder"></a>
-<a href="https://github.com/0xJin/awesome-bugbounty-builder/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/0xJin/awesome-bugbounty-builder"></a>
-
-
-<p><i> Awesome Bug bounty builder Project - ALL common Tools for find your Vulnerabilities.</i></p>
-</div>
-
-
-
-**Tested on Debian.**
-
-
-![bb](https://user-images.githubusercontent.com/81621963/147457586-79ac41eb-f995-455b-a144-f80a5783047a.PNG)
-
-
----
+# Bug Bounty Tool Builder
+ Awesome Bug bounty builder Project - ALL common Tools for find your Vulnerabilities
 
 ## Installation:
 
@@ -402,14 +380,3 @@ Host: evil.com
 https://github.com/six2dez/OneListForAll/releases
 https://github.com/Karanxa/Bug-Bounty-Wordlists
 ```
-
-
----
-
-## Thanks 
-
-<a href="https://www.buymeacoffee.com/0xJin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-Don't forget to follow me on Twitter.
-
-[@0xJin](https://twitter.com/0xJin) - This tool is made with ❤️ by 0xJin ¯\\_(ツ)_/¯.
